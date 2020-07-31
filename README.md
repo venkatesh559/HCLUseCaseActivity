@@ -14,5 +14,8 @@ Setting up the Code
 	- WebContent/WEB_INF/SQL/setup.sql
   
 3. Softwares used 
-   - apache-tomcat-9.0.37
+   	- apache-tomcat-9.0.37
+
+4. Find screenshots here
+	-WebContent/WEB_INF/screenshots	
 
