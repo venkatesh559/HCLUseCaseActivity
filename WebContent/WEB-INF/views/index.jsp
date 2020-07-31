@@ -13,9 +13,6 @@
 <form action="<%= request.getContextPath() %>/transfer" method = "POST">
 <p>When click on transfer amount an amount of 1000 will be transfered from the account</p>
 <input type="submit" value="Transfer Amount">
-
-<h1>${demo}</h1>
-
 </form>
 
 </body>
